@@ -1,3 +1,4 @@
+![imagen](diabete/imagenes/crispentedimiento.png)
 # Plan de Proyecto: Diagnóstico de Diabetes usando Machine Learning y Streamlit
 
 ## 1. Título del Proyecto:
