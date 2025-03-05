@@ -1,4 +1,4 @@
-![imagen](diabete/imagenes/crispentedimiento.png)
+![diabete/imagenes/crispentedimiento.png](https://github.com/adiacla/diabetes/blob/main/imagenes/crispentendimiento.jpg?raw=true))
 # Plan de Proyecto: Diagnóstico de Diabetes usando Machine Learning y Streamlit
 
 ## 1. Título del Proyecto:
