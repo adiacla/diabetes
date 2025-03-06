@@ -11,13 +11,13 @@
 
 ![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/SeleccionarCarpeta.PNG?raw=true)
 
-Una vez dentro de la carpeta crea un archivo llamado app.py
+**2.1:** Una vez dentro de la carpeta crea un archivo llamado app.py
 
 ![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/NewFile.png?raw=true)
 
-![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/PythonFile.PNG?raw=true)
+![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/PythonFile.png?raw=true)
 
-Y copia el siguiente codigo
+**2.2:** Ahora deberan copiar el siguiente codigo
 
 ```bash
 import streamlit as st
@@ -184,7 +184,7 @@ pip list
 
 **Paso 5:** Para ejecutar el codigo recuerden no seleccionar la opcion de ejecutar que tiene visual studio
 
-![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/NoEjecutar.PNG?raw=true)
+![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/NoEjecutar.png?raw=true)
 
 Para dejecutar el codigo deberan escribir el siguiente comando en su terminal
 
