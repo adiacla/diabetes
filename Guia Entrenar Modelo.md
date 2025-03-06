@@ -25,5 +25,12 @@ Ahora ejecutamos todas en entorno de ejecucion, y es esperar hasta que finalize 
 
 ## Paso 5
 
-![Imagen 7][(imágenes/3-entrenamiento.jpg)](https://github.com/adiacla/diabetes/blob/main/imagenes/7-entrenamiento.jpg)
+![Imagen 7](https://github.com/adiacla/diabetes/blob/main/imagenes/7-entrenamiento.jpg)
+
+Una vez ejecutado todo nos debe de dar los siguientes archivos como resultados, toca descargarlos.
+
+## Paso 7
+![Imagen 8](https://github.com/adiacla/diabetes/blob/main/imagenes/8-entrenamiento.jpg)
+
+Estos archivos se pondran en una carpeta llamada diabetes en Documentos, la cual es la que se usará para realizar la aplicación Web.
 
