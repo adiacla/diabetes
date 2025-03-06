@@ -10,7 +10,7 @@ Para iniciar el entrenamiento del modelo, debemos dar click al botón que nos ll
 ![Imagen 0](https://github.com/adiacla/diabetes/blob/main/imagenes/0-entrenamiento.jpg)
 ![Imagen 3](https://github.com/adiacla/diabetes/blob/main/imagenes/3-entrenamiento.jpg)
 
-Lo primero antes de empezar a ejecutar es limpiar cualquier tipo de resultado anterior para hacerlo de 0, en este caso usaremos Borrar todos los resultados en editar, y revisar en archivos que es la carpeta a mano izquierda, que no haya ningun archivo o algo ademas de la sample-Data.
+Lo primero antes de empezar a ejecutar es limpiar cualquier tipo de resultado anterior para hacerlo de 0, en este caso usaremos cambiar tipo de entorno de ejecución,y nos volvemos a conectar. Revisar en archivos que es la carpeta a mano izquierda, que no haya ningun archivo o algo ademas de la sample-Data antes de continuar.
 
 ## Paso 3
 ![Imagen 4](https://github.com/adiacla/diabetes/blob/main/imagenes/4-entrenamiento.jpg)
