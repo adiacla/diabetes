@@ -10,6 +10,10 @@
 
 **Paso 3:** Una vez en la página, busca el botón que dice *Download for Windows* y haz clic en él.
 
+![diabete/imagenes/VSC_Paso3.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso3.jpg?raw=true))
+
 **Paso 4:** Se descargará un archivo con un nombre parecido a este: *VSCodeUserSetup-x64-<versión>.exe*
+
+![diabete/imagenes/VSC_Paso4.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso4.jpg?raw=true))
 
 **Nota:** La descarga se guarda por defecto en la carpeta *Descargas* de tu computadora.
