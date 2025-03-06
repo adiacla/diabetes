@@ -21,7 +21,7 @@ En la seccion de Buscar escribe Python y dale en el boton de Install
 
 **Paso 4:** Para crear un entorno virtual dale Ctrl+Shift+P y selecciona Create Enviroment
 
-![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/Ctrl+Shift+P.PNG?raw=true)
+![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/Ctrl+Shift+P.png?raw=true)
 
 Selecciona la opcion de Crear un entorno Venv
 
