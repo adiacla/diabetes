@@ -1,7 +1,7 @@
 # Entrenamiento del Modelo
 
 ## Paso 1
-![Entrenamiento del modelo]([imágenes/1-entrenamiento.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/1-entrenamiento.jpg?raw=true))
+![Entrenamiento del modelo](https://github.com/adiacla/diabetes/blob/main/imagenes/1-entrenamiento.jpg?raw=true)
 
 Para iniciar el entrenamiento del modelo, debemos dar click al botón que nos lleva a Google Colab.
 
