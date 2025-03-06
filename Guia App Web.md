@@ -33,8 +33,9 @@ Selecciona la opcion de Python 3.10.0
 
 Para rectificar que se creo correctamente tu entorno virtual, veras una carpeta creada .venv, luego abre la terminal con Ctrl+ñ y escribe el siguiente comando
 
-```pip list```
-
+```bash
+pip list
+```
 Deberias ver lo siguiente
 
 ![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/Python10.PNG?raw=true)
