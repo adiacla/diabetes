@@ -21,7 +21,7 @@ En la seccion de Buscar escribe Python y dale en el boton de Install
 
 **Paso 4:** Para crear un entorno virtual dale Ctrl+Shift+P y selecciona Create Enviroment
 
-![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/SeleccionarCarpeta.PNG?raw=true)
+![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/Ctrl+Shift+P.PNG?raw=true)
 
 Selecciona la opcion de Crear un entorno Venv
 
@@ -33,7 +33,7 @@ Selecciona la opcion de Python 3.10.0
 
 Para rectificar que se creo correctamente tu entorno virtual, veras una carpeta creada .venv, luego abre la terminal con Ctrl+ñ y escribe el siguiente comando
 
-`pip list`
+```pip list```
 
 Deberias ver lo siguiente
 
