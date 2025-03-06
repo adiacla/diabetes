@@ -80,9 +80,15 @@
 
 🔹 **Paso 2:** En la barra de búsqueda, escribe: *descargar python* y entra al primer enlace que te aparece, o ve directamente a la página oficial de Python: (https://www.python.org/downloads/)
 
+![diabete/imagenes/VSC_Paso3.2.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso3.2.jpg?raw=true)
+
 🔹 **Paso 3:** En la página de descargas, verás un botón amarillo que dice "Download Python 3.x.x" (la versión más reciente). Haz clic en el botón de descarga y espera a que el archivo se baje.
 
+![diabete/imagenes/VSC_Paso3.3.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso3.3.jpg?raw=true)
+
 📂 Se guardará en la carpeta Descargas con un nombre parecido a: *python-3.x.x-amd64.exe*
+
+![diabete/imagenes/VSC_Paso3.4.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso3.4.jpg?raw=true)
 
 
 
