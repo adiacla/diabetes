@@ -104,6 +104,6 @@ Ten en cuenta:
 ## 18. Publicar la aplicación
 ¡Ya estás listo para lanzar tu aplicación! Haz clic en el botón **Deploy** para publicarla.
 
-Serás redirigido a la URL de tu aplicación en la nube, donde estará lista para usarse desde cualquier navegador o celular.
+Serás redirigido a la URL de tu aplicación en la nube, donde estará lista para usarse **desde cualquier navegador o celular**.
 
 ![6_10_app_lista.png.png](https://github.com/adiacla/diabetes/blob/main/imagenes/6_10_app_lista.png)
