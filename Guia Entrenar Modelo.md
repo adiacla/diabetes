@@ -3,7 +3,7 @@
 ## Paso 1
 ![Entrenamiento del modelo](https://github.com/adiacla/diabetes/blob/main/imagenes/1-entrenamiento.jpg?raw=true)
 
-Para iniciar el entrenamiento del modelo, haz clic en el botón que te dirige a Google Colab, donde se encuentra el archivo `Riesgo_Diabetes.ipynb`.
+Para iniciar el entrenamiento del modelo, haz clic en el botón que te dirige a Google Colab, el cual se encuentra en el archivo `Riesgo_Diabetes.ipynb`.
 
 ## Paso 2
 ![Imagen 2](https://github.com/adiacla/diabetes/blob/main/imagenes/2-entrenamiento.jpg?raw=true)
