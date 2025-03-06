@@ -1,5 +1,26 @@
 # Entrenamiento del Modelo
 
+El modelo que vamos a trabajar se centra en analizar un dataset de **Kaggle**que contiene 9,538 registros médicos relacionados con el diagnóstico de diabetes y factores de riesgo, ademas de estar ya muy limpio es muy bueno para trabajar con el, para ello, utilizaremos la metodología **CRISP-DM**.
+
+> **Metodología CRISP-DM:**  
+> La metodología CRISP-DM es un enfoque estructurado y ampliamente reconocido en el ámbito de la minería de datos. Este proceso se compone de varias fases clave que permiten abordar de manera integral el análisis y modelado de datos.
+
+## Fases del Proceso
+
+1. **Comprensión del negocio:**  
+   Definición de objetivos y alcance del análisis, identificando las necesidades y retos específicos del negocio.
+
+2. **Comprensión y preparación de los datos:**  
+   Exploración, limpieza y transformación del dataset para asegurar la calidad y relevancia de la información.
+
+3. **Modelado y evaluación:**  
+   Desarrollo, optimización y evaluación del modelo predictivo mediante técnicas y métricas rigurosas.
+
+4. **Implementación:**  
+   Integración del modelo en un entorno que permita la toma de decisiones informada y la aplicación práctica.
+
+Con este enfoque, buscamos extraer conocimiento valioso del conjunto de datos y construir una solución robusta y escalable que aporte un impacto real en la toma de decisiones del negocio.
+
 ## Paso 1
 ![Entrenamiento del modelo](https://github.com/adiacla/diabetes/blob/main/imagenes/1-entrenamiento.jpg?raw=true)
 
