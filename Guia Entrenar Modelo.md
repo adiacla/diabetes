@@ -3,35 +3,32 @@
 ## Paso 1
 ![Entrenamiento del modelo](https://github.com/adiacla/diabetes/blob/main/imagenes/1-entrenamiento.jpg?raw=true)
 
-Para iniciar el entrenamiento del modelo, debemos dar click al botón que nos lleva a Google Colab del archivo Riesgo_Diabetes.ipynb.
+Para iniciar el entrenamiento del modelo, haz clic en el botón que te dirige a Google Colab, donde se encuentra el archivo `Riesgo_Diabetes.ipynb`.
 
 ## Paso 2
-![Imagen 2](https://github.com/adiacla/diabetes/blob/main/imagenes/2-entrenamiento.jpg)
-![Imagen 0](https://github.com/adiacla/diabetes/blob/main/imagenes/0-entrenamiento.jpg)
-![Imagen 3](https://github.com/adiacla/diabetes/blob/main/imagenes/3-entrenamiento.jpg)
+![Imagen 2](https://github.com/adiacla/diabetes/blob/main/imagenes/2-entrenamiento.jpg?raw=true)
+![Imagen 0](https://github.com/adiacla/diabetes/blob/main/imagenes/0-entrenamiento.jpg?raw=true)
+![Imagen 3](https://github.com/adiacla/diabetes/blob/main/imagenes/3-entrenamiento.jpg?raw=true)
 
-Lo primero antes de empezar a ejecutar es limpiar cualquier tipo de resultado anterior para hacerlo de 0, en este caso usaremos cambiar tipo de entorno de ejecución,y nos volvemos a conectar. Revisar en archivos que es la carpeta a mano izquierda, que no haya ningun archivo o algo ademas de la sample-Data antes de continuar.
+Antes de comenzar a ejecutar, es importante limpiar cualquier resultado previo para iniciar desde cero. Para ello, cambia el tipo de entorno de ejecución y vuelve a conectarte. Además, revisa la sección de archivos (en la barra lateral izquierda) para asegurarte de que, aparte de la carpeta `sample-Data`, no aparezca ningún archivo adicional.
 
 ## Paso 3
-![Imagen 4](https://github.com/adiacla/diabetes/blob/main/imagenes/4-entrenamiento.jpg)
-![Imagen 5](https://github.com/adiacla/diabetes/blob/main/imagenes/5-entrenamiento.jpg)
+![Imagen 4](https://github.com/adiacla/diabetes/blob/main/imagenes/4-entrenamiento.jpg?raw=true)
+![Imagen 5](https://github.com/adiacla/diabetes/blob/main/imagenes/5-entrenamiento.jpg?raw=true)
 
-Una vez hecho eso, vamos a ir a **Entorno de ejecución**, luego a **Cambiar tipo de entorno de ejecución**, para así cambiarlo a **GPU T4**, esto con el fin de tener mas capacidad y correr el archivo en un menor tiempo.
+Una vez realizado lo anterior, dirígete a **Entorno de ejecución** y selecciona **Cambiar tipo de entorno de ejecución** para configurar la opción a **GPU T4**. Esto te permitirá disponer de mayor capacidad y ejecutar el archivo en un tiempo más reducido.
 
 ## Paso 4
+![Imagen 6](https://github.com/adiacla/diabetes/blob/main/imagenes/6-entrenamiento.jpg?raw=true)
 
-![Imagen 6](https://github.com/adiacla/diabetes/blob/main/imagenes/6-entrenamiento.jpg)
-
-Ahora ejecutamos todas en entorno de ejecucion, y es esperar hasta que finalize de ejecutar todas las celdas.
+Ahora, ejecuta todas las celdas del entorno y espera a que se complete su procesamiento.
 
 ## Paso 5
+![Imagen 7](https://github.com/adiacla/diabetes/blob/main/imagenes/7-entrenamiento.jpg?raw=true)
 
-![Imagen 7](https://github.com/adiacla/diabetes/blob/main/imagenes/7-entrenamiento.jpg)
-
-Una vez ejecutado todo nos debe de dar los siguientes archivos como resultados, toca descargarlos.
+Una vez finalizada la ejecución, deberías obtener los siguientes archivos como resultado. Descárgalos.
 
 ## Paso 7
-![Imagen 8](https://github.com/adiacla/diabetes/blob/main/imagenes/8-entrenamiento.jpg)
+![Imagen 8](https://github.com/adiacla/diabetes/blob/main/imagenes/8-entrenamiento.jpg?raw=true)
 
-Estos archivos se pondran en una carpeta llamada diabetes en Documentos, la cual es la que se usará para realizar la aplicación Web.
-
+Estos archivos se guardarán en una carpeta llamada `Diabetes` dentro de la carpeta **Documentos**, y serán utilizados para desarrollar la aplicación web.
