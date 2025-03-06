@@ -28,7 +28,7 @@ Ahora, ejecuta todas las celdas del entorno y espera a que se complete su proces
 
 Una vez finalizada la ejecución, deberías obtener los siguientes archivos como resultado. Descárgalos.
 
-## Paso 7
+## Paso 6
 ![Imagen 8](https://github.com/adiacla/diabetes/blob/main/imagenes/8-entrenamiento.jpg?raw=true)
 
 Estos archivos se guardarán en una carpeta llamada `Diabetes` dentro de la carpeta **Documentos**, y serán utilizados para desarrollar la aplicación web.
