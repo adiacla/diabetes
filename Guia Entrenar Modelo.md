@@ -1,25 +1,31 @@
 # Entrenamiento del Modelo
 
-El modelo que vamos a trabajar se centra en analizar un dataset de **Kaggle** que contiene 9,538 registros médicos relacionados con el diagnóstico de diabetes y factores de riesgo, ademas de estar ya muy limpio es muy bueno para trabajar con el. Para ello, utilizaremos la metodología **CRISP-DM**.
+El modelo que vamos a desarrollar se centra en analizar un dataset de **Kaggle** utilizando la metodología **CRISP-DM**, con el objetivo de crear un sistema de aprendizaje automático que prediga el riesgo de desarrollar diabetes.
 
 > **Metodología CRISP-DM:**  
-> La metodología CRISP-DM es un enfoque estructurado y ampliamente reconocido en el ámbito de la minería de datos. Este proceso se compone de varias fases clave que permiten abordar de manera integral el análisis y modelado de datos.
+> Este enfoque estructurado en minería de datos abarca desde la comprensión del negocio hasta la implementación del modelo. Su aplicación nos permite extraer conocimiento valioso y construir soluciones predictivas de manera sistemática.
+
+## Objetivo del Proyecto
+
+Desarrollar una **aplicación web** que, a partir del análisis del dataset, evalúe las características de una persona y asigne una puntuación del **0 al 100**, indicando qué tan propensa es a sufrir diabetes.
 
 ## Fases del Proceso
 
 1. **Comprensión del negocio:**  
-   Definición de objetivos y alcance del análisis, identificando las necesidades y retos específicos del negocio.
+   - Definir los objetivos y el alcance del análisis.
+   - Identificar los factores de riesgo y variables relevantes que influyen en la probabilidad de desarrollar diabetes.
 
 2. **Comprensión y preparación de los datos:**  
-   Exploración, limpieza y transformación del dataset para asegurar la calidad y relevancia de la información.
+   - Explorar, limpiar y transformar el dataset para garantizar datos de calidad.
+   - Extraer características clave que permitan realizar una predicción precisa.
 
 3. **Modelado y evaluación:**  
-   Desarrollo, optimización y evaluación del modelo predictivo mediante técnicas y métricas rigurosas.
+   - Desarrollar y optimizar el modelo de aprendizaje automático mediante técnicas de clasificación o regresión.
+   - Evaluar el desempeño del modelo para asegurar que la predicción (de 0 a 100) sea fiable.
 
 4. **Implementación:**  
-   Integración del modelo en un entorno que permita la toma de decisiones informada y la aplicación práctica.
-
-Con este enfoque, buscamos extraer conocimiento valioso del conjunto de datos y construir una solución robusta y escalable que aporte un impacto real en la toma de decisiones del negocio.
+   - Integrar el modelo en una aplicación web que permita a los usuarios ingresar sus datos y recibir una predicción del riesgo de diabetes.
+   - Facilitar la toma de decisiones preventivas y el seguimiento personalizado.
 
 ## Paso 1
 ![Entrenamiento del modelo](https://github.com/adiacla/diabetes/blob/main/imagenes/1-entrenamiento.jpg?raw=true)
