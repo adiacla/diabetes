@@ -1,6 +1,6 @@
 # Entrenamiento del Modelo
 
-El modelo que vamos a trabajar se centra en analizar un dataset de **Kaggle**que contiene 9,538 registros médicos relacionados con el diagnóstico de diabetes y factores de riesgo, ademas de estar ya muy limpio es muy bueno para trabajar con el, para ello, utilizaremos la metodología **CRISP-DM**.
+El modelo que vamos a trabajar se centra en analizar un dataset de **Kaggle** que contiene 9,538 registros médicos relacionados con el diagnóstico de diabetes y factores de riesgo, ademas de estar ya muy limpio es muy bueno para trabajar con el. Para ello, utilizaremos la metodología **CRISP-DM**.
 
 > **Metodología CRISP-DM:**  
 > La metodología CRISP-DM es un enfoque estructurado y ampliamente reconocido en el ámbito de la minería de datos. Este proceso se compone de varias fases clave que permiten abordar de manera integral el análisis y modelado de datos.
