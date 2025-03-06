@@ -72,11 +72,35 @@ Una vez dentro de Streamlit, haz clic en el botón **Create App** para empezar a
 ![6_4_click_create_app](https://github.com/adiacla/diabetes/blob/main/imagenes/6_4_click_create_app.png)
 
 ## 13. Seleccionar la opción de GitHub
-En las opciones disponibles, elige **Create with GitHub** para vincular tu repositorio.
+En las opciones disponibles, elige **Github** para vincular tu repositorio.
 
 ![6_5_click_github](https://github.com/adiacla/diabetes/blob/main/imagenes/6_5_click_github.png)
 
 ## 14. Escoger el repositorio "diabetes"
-En el campo "Repository", escribe "diabetes" y selecciona el repositorio que copiaste anteriormente (el "Fork" que hiciste en el paso 5).
+En el campo "Repository", escribe "diabetes" y selecciona el repositorio de diabetes (O segun el nombre que tenga el repositorio).
 
 ![6_6_type_diabetes](https://github.com/adiacla/diabetes/blob/main/imagenes/6_6_type_diabetes.png)
+
+## 15. Configurar el campo "Main File Path"
+En el campo **Main File Path**, escribe `AppWeb/app.py` para indicar la ruta del archivo principal de la aplicación.
+
+![6_7_main_file_path.png](https://github.com/adiacla/diabetes/blob/main/imagenes/6_7_main_file_path.png)
+
+Luego, haz clic en **Advanced Settings** para acceder a más opciones.
+
+## 16. Seleccionar la versión de Python
+Dentro de **Advanced Settings**, cambia la versión de Python a 3.10 y guarda los cambios.
+
+![6_8_choose_python3_10.png](https://github.com/adiacla/diabetes/blob/main/imagenes/6_8_choose_python3_10.png)
+
+## 17. Personalizar el dominio de la aplicación
+En el campo **App URL**, escribe el nombre que desees para el dominio de tu aplicación. Ten en cuenta que la URL finalizará en `streamlit.app`.
+
+![6_9_cambiar_url.png](https://github.com/adiacla/diabetes/blob/main/imagenes/6_9_cambiar_url.png)
+
+## 18. Publicar la aplicación
+¡Ya estás listo para lanzar tu aplicación! Haz clic en el botón **Deploy** para publicarla.
+
+Serás redirigido a la URL de tu aplicación en la nube, donde estará lista para usarse.
+
+![6_10_app_lista.png.png](https://github.com/adiacla/diabetes/blob/main/imagenes/6_10_app_lista.png)
