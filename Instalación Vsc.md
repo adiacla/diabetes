@@ -72,3 +72,17 @@
 
 ![diabete/imagenes/VSC_Paso2.11.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso2.11.jpg?raw=true)
 
+---
+
+## 3️⃣ Descargar Python
+
+🔹 **Paso 1:** Abre un navegador web como **Google Chrome**, **Mozilla Firefox** o **Microsoft Edge**.
+
+🔹 **Paso 2:** En la barra de búsqueda, escribe: *descargar python* y entra al primer enlace que te aparece, o ve directamente a la página oficial de Python: (https://www.python.org/downloads/)
+
+🔹 **Paso 3:** En la página de descargas, verás un botón amarillo que dice "Download Python 3.x.x" (la versión más reciente). Haz clic en el botón de descarga y espera a que el archivo se baje.
+
+📂 Se guardará en la carpeta Descargas con un nombre parecido a: *python-3.x.x-amd64.exe*
+
+
+
