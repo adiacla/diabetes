@@ -1,6 +1,6 @@
 # Guía de instalación Visual Studio Code 
 
-## 1️⃣ Descargar Visual Studio Code
+## 1️⃣ Descargar Visual Studio Code para Windows 
 
 🔹**Paso 1:** Abre un navegador web como **Google Chrome**, **Mozilla Firefox** o **Microsoft Edge**.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 2️⃣ Instalar Visual Studio Code
+## 2️⃣ Instalar Visual Studio Code en Windows
 
 🔹 **Paso 1:** Abre la carpeta Descargas y busca el archivo VSCodeUserSetup.exe que descargaste.
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 3️⃣ Descargar Python
+## 3️⃣ Descargar Python para Windows
 
 🔹 **Paso 1:** Abre un navegador web como **Google Chrome**, **Mozilla Firefox** o **Microsoft Edge**.
 
@@ -90,5 +90,22 @@
 
 ![diabete/imagenes/VSC_Paso3.4.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso3.4.jpg?raw=true)
 
+## 4️⃣ Instalar Python en tu computadora Windows
 
+🔹 **Paso 1:** Abre la carpeta *Descargas* y busca el archivo *python-3.x.x-amd64.exe*.
 
+🔹 **Paso 2:** Haz doble clic en el archivo para iniciar la instalación.
+
+🔹 **Paso 3:** **MUY IMPORTANTE:** Antes de hacer clic en cualquier botón, marca la casilla que dice:
+
+✅ "Add Python 3.x to PATH"
+
+📌 Esto es crucial para poder ejecutar Python desde cualquier parte en Windows.
+
+🔹 **Paso 4:** Ahora haz clic en "Install Now" (Instalar ahora).
+
+🔹 **Paso 5:** Espera unos minutos mientras se instala.
+
+🔹 **Paso 6:** Cuando termine, verás un mensaje que dice "*Setup was successful*". Haz clic en "*Close*" (*Cerrar*) para finalizar.
+
+✅ ¡Python ya está instalado en tu computadora!
