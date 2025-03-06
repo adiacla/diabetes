@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f352751-61a1-412a-9ae0-f9356593bf69)# Guia App Web
+# Guia App Web
 
 ## 1. Abrir tu proyecto en Visual Studio Code
 **Paso 1:** Abre Visual Studio Code y veras la siguiente pantalla
