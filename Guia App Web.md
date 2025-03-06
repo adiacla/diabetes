@@ -13,7 +13,7 @@
 
 Una vez dentro de la carpeta crea un archivo llamado app.py
 
-![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/NewFile.PNG?raw=true)
+![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/NewFile.png?raw=true)
 
 ![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/PythonFile.PNG?raw=true)
 
