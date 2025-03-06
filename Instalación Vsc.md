@@ -94,18 +94,28 @@
 
 🔹 **Paso 1:** Abre la carpeta *Descargas* y busca el archivo *python-3.x.x-amd64.exe*.
 
+![diabete/imagenes/VSC_Paso4.1.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso4.1.jpg?raw=true)
+
 🔹 **Paso 2:** Haz doble clic en el archivo para iniciar la instalación.
 
 🔹 **Paso 3:** **MUY IMPORTANTE:** Antes de hacer clic en cualquier botón, marca la casilla que dice:
 
 ✅ "Add Python 3.x to PATH"
 
+![diabete/imagenes/VSC_Paso4.3.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso4.3.jpg?raw=true)
+
 📌 Esto es crucial para poder ejecutar Python desde cualquier parte en Windows.
 
 🔹 **Paso 4:** Ahora haz clic en "Install Now" (Instalar ahora).
 
+![diabete/imagenes/VSC_Paso4.4.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso4.4.jpg?raw=true)
+
 🔹 **Paso 5:** Espera unos minutos mientras se instala.
 
+![diabete/imagenes/VSC_Paso4.5.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso4.5.jpg?raw=true)
+
 🔹 **Paso 6:** Cuando termine, verás un mensaje que dice "*Setup was successful*". Haz clic en "*Close*" (*Cerrar*) para finalizar.
+
+![diabete/imagenes/VSC_Paso4.6.jpg](https://github.com/adiacla/diabetes/blob/main/imagenes/VSC_Paso4.6.jpg?raw=true)
 
 ✅ ¡Python ya está instalado en tu computadora!
