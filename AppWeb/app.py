@@ -4,9 +4,9 @@ import pandas as pd
 import joblib
 
 # Cargar modelo y transformadores
-model = joblib.load('random_forest_model.joblib')
-scaler = joblib.load('scaler.joblib')
-label_encoders = joblib.load('label_encoders.joblib')
+model = joblib.load('./random_forest_model.joblib')
+scaler = joblib.load('./scaler.joblib')
+label_encoders = joblib.load('./label_encoders.joblib')
 
 # ---- Encabezado ----
 st.title("Predicción de Diabetes")
