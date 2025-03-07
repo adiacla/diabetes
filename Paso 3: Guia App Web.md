@@ -136,6 +136,11 @@ st.markdown("---")
 st.markdown('<div style="text-align: center; font-weight: bold;">Smart Region Lab - 2025</div>', unsafe_allow_html=True)
 ```
 
+**Paso 2.3:** Para que tu codigo funcione correctamente deber tener una carpeta llamada "AppWeb" en la cual dentro pongas todos los archivos que generaste anteriormente en tu Google Colab, deberia verse de esta manera.
+
+![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/Carpeta.PNG?raw=true)
+
+
 **Paso 3:** Entra a la extensiones y descarga la extension de Python
 
 ![diabetes/imagenes](https://github.com/adiacla/diabetes/blob/main/imagenes/ExtensionesVsc.PNG?raw=true)
